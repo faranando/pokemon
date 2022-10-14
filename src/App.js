@@ -94,8 +94,8 @@ export default function App(){
   <div className="container">
     <Header />
     <Routes>
-      <Route path="/" element={<Home pokemonData={pokemonData} loading={loading} setUrl={setUrl} nextUrl={nextUrl} />} />
-      <Route path="/pokemon/:id" element={<Pokemon pokemonData={pokemonData} ownedPokemonData={ownedPokemonData} changePokemonData={changePokemonData} changeOwnedPokemonData={changeOwnedPokemonData} />} />
+      <Route path="/pokemon-react" element={<Home pokemonData={pokemonData} loading={loading} setUrl={setUrl} nextUrl={nextUrl} />} />
+      <Route path="/pokemon-react/pokemon/:id" element={<Pokemon pokemonData={pokemonData} ownedPokemonData={ownedPokemonData} changePokemonData={changePokemonData} changeOwnedPokemonData={changeOwnedPokemonData} />} />
       <Route path="/bag" element={<OwnedPokemon pokemonData={ownedPokemonData} loading={loading} />}  />
     </Routes>
     <Footer />
