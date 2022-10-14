@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/pokemon/static/css/main.831c3a8d.css",
-    "main.js": "/pokemon/static/js/main.08a5ed2d.js",
-    "static/media/logo.png": "/pokemon/static/media/logo.d89fa19be5872c47644e.png",
-    "static/media/masterball.png": "/pokemon/static/media/masterball.c7264a918d39f52f88c9.png",
-    "static/media/ditto.png": "/pokemon/static/media/ditto.56bcbe118b07e31b4899.png",
-    "static/media/bag.png": "/pokemon/static/media/bag.145da4514ad5788a231f.png",
-    "static/media/pikachu.png": "/pokemon/static/media/pikachu.a127b470329d130a1343.png",
-    "static/media/pawprints.png": "/pokemon/static/media/pawprints.438a168f383ad0beb884.png",
-    "static/media/gotcha.png": "/pokemon/static/media/gotcha.e52aa4c37c2efd946958.png",
-    "index.html": "/pokemon/index.html",
-    "main.831c3a8d.css.map": "/pokemon/static/css/main.831c3a8d.css.map",
-    "main.08a5ed2d.js.map": "/pokemon/static/js/main.08a5ed2d.js.map"
+    "main.css": "/pokemon-react/static/css/main.831c3a8d.css",
+    "main.js": "/pokemon-react/static/js/main.64969cba.js",
+    "static/media/logo.png": "/pokemon-react/static/media/logo.d89fa19be5872c47644e.png",
+    "static/media/masterball.png": "/pokemon-react/static/media/masterball.c7264a918d39f52f88c9.png",
+    "static/media/ditto.png": "/pokemon-react/static/media/ditto.56bcbe118b07e31b4899.png",
+    "static/media/bag.png": "/pokemon-react/static/media/bag.145da4514ad5788a231f.png",
+    "static/media/pikachu.png": "/pokemon-react/static/media/pikachu.a127b470329d130a1343.png",
+    "static/media/pawprints.png": "/pokemon-react/static/media/pawprints.438a168f383ad0beb884.png",
+    "static/media/gotcha.png": "/pokemon-react/static/media/gotcha.e52aa4c37c2efd946958.png",
+    "index.html": "/pokemon-react/index.html",
+    "main.831c3a8d.css.map": "/pokemon-react/static/css/main.831c3a8d.css.map",
+    "main.64969cba.js.map": "/pokemon-react/static/js/main.64969cba.js.map"
   },
   "entrypoints": [
     "static/css/main.831c3a8d.css",
-    "static/js/main.08a5ed2d.js"
+    "static/js/main.64969cba.js"
   ]
 }
