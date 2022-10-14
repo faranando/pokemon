@@ -8,7 +8,7 @@ export default function ModalReleased({open, onClose}){
             <div className="modal-container">
                 <img className="modal-img" src={pawprints}></img>
                 <p className="modal-text">Pokemon released.</p>
-                <Link to="/pokemon-react/bag"><button className="default-button" onClick={onClose}>Close</button></Link>
+                <Link to="/bag"><button className="default-button" onClick={onClose}>Close</button></Link>
             </div>
         </div>
     )
