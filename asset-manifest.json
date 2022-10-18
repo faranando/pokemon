@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/pokemon-react/static/css/main.831c3a8d.css",
-    "main.js": "/pokemon-react/static/js/main.a69d447c.js",
+    "main.css": "/pokemon-react/static/css/main.09b45562.css",
+    "main.js": "/pokemon-react/static/js/main.685d1304.js",
     "static/media/logo.png": "/pokemon-react/static/media/logo.d89fa19be5872c47644e.png",
     "static/media/masterball.png": "/pokemon-react/static/media/masterball.c7264a918d39f52f88c9.png",
     "static/media/ditto.png": "/pokemon-react/static/media/ditto.56bcbe118b07e31b4899.png",
@@ -10,11 +10,11 @@
     "static/media/pawprints.png": "/pokemon-react/static/media/pawprints.438a168f383ad0beb884.png",
     "static/media/gotcha.png": "/pokemon-react/static/media/gotcha.e52aa4c37c2efd946958.png",
     "index.html": "/pokemon-react/index.html",
-    "main.831c3a8d.css.map": "/pokemon-react/static/css/main.831c3a8d.css.map",
-    "main.a69d447c.js.map": "/pokemon-react/static/js/main.a69d447c.js.map"
+    "main.09b45562.css.map": "/pokemon-react/static/css/main.09b45562.css.map",
+    "main.685d1304.js.map": "/pokemon-react/static/js/main.685d1304.js.map"
   },
   "entrypoints": [
-    "static/css/main.831c3a8d.css",
-    "static/js/main.a69d447c.js"
+    "static/css/main.09b45562.css",
+    "static/js/main.685d1304.js"
   ]
 }
